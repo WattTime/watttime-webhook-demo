@@ -1,0 +1,7 @@
+Greetings!
+
+At {{ timestamp }}, the carbon footprint of electricity in {{ ba }} is {{ carbon_value }} {{ carbon_units }}.
+
+cheers,
+the WattTime crew
+contact@WattTime.org
