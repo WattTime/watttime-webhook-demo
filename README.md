@@ -37,7 +37,7 @@ Run ```heroku open``` to see your snazzy new site in a web browser :)
 
 ## Step 5: Set up a webhook
 
-Create an account for the WattTime API [here](http://api.watttime.org/accounts/register/). Click on [webhooks](http://api.watttime.org/accounts/webhooks/), then click "Add new webhook". Use the dropdowns to select the balancing authority for your region (e.g., CAISO is for California) and the kind of data you want (i.e., carbon). In "target url", type the link that's shown on your new Heroku site (should be something like [https://whispering-meadow-123.herokuapp.com/wt_feed]). Click "submit" to create the webhook.
+Create an account for the WattTime API [here](http://api.watttime.org/accounts/register/). Click on [webhooks](http://api.watttime.org/accounts/webhooks/), then click "Add new webhook". Use the dropdowns to select the balancing authority for your region (e.g., CAISO is for California) and the kind of data you want (i.e., carbon). In "target url", type the link that's shown on your new Heroku site (should be something like https://whispering-meadow-123.herokuapp.com/wt_feed). Click "submit" to create the webhook.
 
 ## Step 6: Get email updates
 
